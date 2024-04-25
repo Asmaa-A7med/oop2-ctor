@@ -1,0 +1,15 @@
+C:\Users\asmaa\Desktop\.net track\oop\oop2-ctor\oop2-ctor\bin\Debug\net7.0\oop2-ctor.exe
+C:\Users\asmaa\Desktop\.net track\oop\oop2-ctor\oop2-ctor\bin\Debug\net7.0\oop2-ctor.deps.json
+C:\Users\asmaa\Desktop\.net track\oop\oop2-ctor\oop2-ctor\bin\Debug\net7.0\oop2-ctor.runtimeconfig.json
+C:\Users\asmaa\Desktop\.net track\oop\oop2-ctor\oop2-ctor\bin\Debug\net7.0\oop2-ctor.dll
+C:\Users\asmaa\Desktop\.net track\oop\oop2-ctor\oop2-ctor\bin\Debug\net7.0\oop2-ctor.pdb
+C:\Users\asmaa\Desktop\.net track\oop\oop2-ctor\oop2-ctor\obj\Debug\net7.0\oop2-ctor.csproj.AssemblyReference.cache
+C:\Users\asmaa\Desktop\.net track\oop\oop2-ctor\oop2-ctor\obj\Debug\net7.0\oop2-ctor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asmaa\Desktop\.net track\oop\oop2-ctor\oop2-ctor\obj\Debug\net7.0\oop2-ctor.AssemblyInfoInputs.cache
+C:\Users\asmaa\Desktop\.net track\oop\oop2-ctor\oop2-ctor\obj\Debug\net7.0\oop2-ctor.AssemblyInfo.cs
+C:\Users\asmaa\Desktop\.net track\oop\oop2-ctor\oop2-ctor\obj\Debug\net7.0\oop2-ctor.csproj.CoreCompileInputs.cache
+C:\Users\asmaa\Desktop\.net track\oop\oop2-ctor\oop2-ctor\obj\Debug\net7.0\oop2-ctor.dll
+C:\Users\asmaa\Desktop\.net track\oop\oop2-ctor\oop2-ctor\obj\Debug\net7.0\refint\oop2-ctor.dll
+C:\Users\asmaa\Desktop\.net track\oop\oop2-ctor\oop2-ctor\obj\Debug\net7.0\oop2-ctor.pdb
+C:\Users\asmaa\Desktop\.net track\oop\oop2-ctor\oop2-ctor\obj\Debug\net7.0\oop2-ctor.genruntimeconfig.cache
+C:\Users\asmaa\Desktop\.net track\oop\oop2-ctor\oop2-ctor\obj\Debug\net7.0\ref\oop2-ctor.dll
